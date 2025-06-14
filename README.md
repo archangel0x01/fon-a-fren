@@ -1,6 +1,6 @@
 # fon-a-fren
 
-I realized not everyone is able to manage api keys of ai shops so if (if) you've a good coder friend or just someone with above avg iq, you can send the questions to them and ask them to to do the needful. No extra knowledge is needed to turn this reactor on, screeshots can be captured by your avg prtscr, paste on telegram and let them brainstorm while you question your life choices.
+I realized not everyone is able to manage api keys of ai shops so if (if) you've a good coder friend or just someone with above avg iq, you can send the questions to them and ask them to to do the needful. No extra knowledge is needed to turn this reactor on, screenshots can be captured by your avg prtscr, paste on telegram and let them brainstorm while you question your life choices.
 Bye Bye!
 
 ## Features
